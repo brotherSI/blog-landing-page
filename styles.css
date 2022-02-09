@@ -242,6 +242,12 @@ section:nth-of-type(1){
   justify-content: space-between;
 }
 
+.nav #icon {
+  font-size:20px;
+  line-height:80px;
+  cursor:pointer;
+}
+
 /* logo */
 .logo h2 {
   font-size: 28px;
